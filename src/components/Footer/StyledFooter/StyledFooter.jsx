@@ -11,6 +11,7 @@ export const FooterContainer = styled.footer`
   display: grid;
   z-index: 0;
   align-items: center;
+  gap: 20px;
   grid-template-columns: repeat(3, 1fr);
   padding: 0 7%;
 
